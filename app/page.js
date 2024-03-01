@@ -126,7 +126,7 @@ export default function Home() {
             </div>
         </div>
           <div className={'w-full flex flex-col z-30  h-full overflow-auto pb-[50px]  bg1'}>
-              <div className={'w-full min-w-[1000px] overflow-x-auto p-[12px] flex flex-row justify-between items-center text-white h-full bg-[#0F0F0F]'}>
+              <div className={'w-[1000px]  p-[12px] flex flex-row justify-between items-center text-white h-full bg-[#0F0F0F]'}>
                   <div className={'flex items-center gap-[10px] flex-row'}>
                       <div className={'flex flex-row gap-[20px]'}>
                           <svg width="32" height="33" viewBox="0 0 32 33" fill="none" xmlns="http://www.w3.org/2000/svg">
