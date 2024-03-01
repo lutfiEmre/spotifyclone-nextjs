@@ -126,7 +126,7 @@ export default function Home() {
             </div>
         </div>
           <div className={'w-full flex flex-col z-30  h-full overflow-auto pb-[50px]  bg1'}>
-              <div className={'w-full p-[12px] flex flex-row justify-between items-center text-white h-full bg-[#0F0F0F]'}>
+              <div className={'w-full min-w-[1000px] overflow-x-auto p-[12px] flex flex-row justify-between items-center text-white h-full bg-[#0F0F0F]'}>
                   <div className={'flex items-center gap-[10px] flex-row'}>
                       <div className={'flex flex-row gap-[20px]'}>
                           <svg width="32" height="33" viewBox="0 0 32 33" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -188,7 +188,7 @@ export default function Home() {
                               Show all
                           </h6>
                       </div>
-                      <div className={'flex min-w-[1000px] flex-row mt-[22px] w-full gap-[24px]'}>
+                          <div className={'flex min-w-[1000px] flex-row mt-[22px] w-full gap-[24px]'}>
                           <div className={'w-[207px] transition-all duration-400  group p-[16px] cursor-pointer xl:hover:h-full  h-[298px] overflow-hidden bg-[#181818] rounded-[6px]'}>
                               <div className={'w-[175px] relative shadow1 h-[175px]'}>
                                   <Image src={main1} width={175} height={175} alt={''}/>
