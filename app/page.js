@@ -105,7 +105,7 @@ export default function Home() {
                         Cookies
                     </h5>
                     <h5 className={'cursor-pointer'}>
-                        About Ads"
+                        About Ads
                     </h5>
                     <svg className={'w-[25px] cursor-pointer h-[20px]'} xmlns="http://www.w3.org/2000/svg" width="25" height="13" viewBox="0 0 25 13" fill="none">
                         <path fill-rule="evenodd" clip-rule="evenodd" d="M6.49495 11.5052H12.1616L14.745 1.83856H6.49495C3.82829 1.83856 1.66162 4.00523 1.66162 6.6719C1.66162 9.33856 3.82829 11.5052 6.49495 11.5052Z" fill="white"/>
@@ -307,7 +307,7 @@ export default function Home() {
                               </div>
                               <div className={'flex flex-col gap-[5px] mt-4'}>
                                   <h5 className={'text-white font-bold '}>
-                                      Today's Top Hits
+                                      Today&apos;s Top Hits
                                   </h5>
                                   <h6 className={'text-[#A7A7A7]  text-[14px]'}>
                                       Ed Sheeran is on top of the Hottest 50!                                  </h6>
